@@ -1,0 +1,49 @@
+.navbar-nav > li{
+    padding-left:30px;
+    padding-right:30px;
+  }
+  @media (min-width: 992px){
+    .navbar li {
+        margin-left : 1em;
+        margin-right : 1em;
+    }
+}
+.content-header{
+  font-family: 'Oleo Script', cursive;
+  color:#fcc500;
+  font-size: 45px;
+}
+
+.section-content{
+  text-align: center; 
+
+}
+body {padding-top:20px;}
+.booking{
+  background-color:var (--gardient-color);
+
+}
+.input-group{
+  margin-bottom: 1.5rem;
+
+}
+.input-label{
+  display:block;
+  font-size:1.3rem;
+  text-transform:uppercase;
+  color:#fff;
+  font-weight: blod;
+  margin-bottom: 1rem;
+}
+.input,.options
+{
+  outline:none;
+  border:none;
+  width:100%;
+  padding:1rem;
+  font-weight:blod;
+  color:#a5a5a5;
+  letter-spacing:2px;
+  font-family: "Open Sans",sans-serif;
+
+}
